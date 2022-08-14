@@ -17,7 +17,7 @@ mongoose
 app.set("view engine","ejs");
 
 // MIDDLEWAres
-app.use(express.static(__dirname + 'public'));
+app.use(express.static(__dirname + '/public'));
 app.use(express.urlencoded({extended:true}));
 app.use(express.json());
 
