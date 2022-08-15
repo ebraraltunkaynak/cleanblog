@@ -1,1 +1,6 @@
-# a nodejs project
+### CleanBlog Blog ekleme ve silme uygulaması
+
+- Nodejs
+- ejs
+- express
+- Mongodb
